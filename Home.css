@@ -287,8 +287,8 @@
 .u-section-2 .u-social-icons-1 {
   height: 59px;
   min-height: 16px;
-  width: 128px;
-  min-width: 42px;
+  width: 197px;
+  min-width: 68px;
   margin: 0 auto 33px;
 }
 
@@ -300,6 +300,10 @@
   height: 100%;
 }
 
+.u-section-2 .u-icon-3 {
+  height: 100%;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-text-1 {
     margin-top: 35px;
@@ -307,7 +311,6 @@
 
   .u-section-2 .u-social-icons-1 {
     margin-top: 13px;
-    margin-right: 395px;
     margin-bottom: 42px;
   }
 }
@@ -322,9 +325,9 @@
   }
 
   .u-section-2 .u-social-icons-1 {
-    margin-top: 3px;
-    margin-right: 276px;
-    margin-bottom: 52px;
+    margin-top: -7px;
+    margin-bottom: 60px;
+    margin-left: 250px;
   }
 }
 
@@ -335,7 +338,7 @@
 
   .u-section-2 .u-social-icons-1 {
     margin-top: 0;
-    margin-right: auto;
+    margin-left: auto;
     margin-bottom: 53px;
   }
 }

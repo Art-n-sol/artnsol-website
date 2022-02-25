@@ -36386,8 +36386,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   height: 32px;
   min-height: 16px;
-  width: 158px;
-  min-width: 94px;
+  width: 200px;
+  min-width: 120px;
   margin: 30px auto 60px;
 }
 
@@ -36407,6 +36407,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-icon-4 {
   height: 0;
+}
+
+.u-footer .u-icon-5 {
+  height: 100%;
 }
 
 
